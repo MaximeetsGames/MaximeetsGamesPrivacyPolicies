@@ -1,6 +1,8 @@
+```yaml
 layout: page
 title: "Construcubes demo privacy notice"
 permalink: /construcube/demo/privacy
+```
 
 **Privacy Policy**
 
