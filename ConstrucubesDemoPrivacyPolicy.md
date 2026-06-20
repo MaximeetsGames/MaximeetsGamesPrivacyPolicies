@@ -1,3 +1,7 @@
+layout: page
+title: "Construcubes demo privacy notice"
+permalink: /construcube/demo/privacy
+
 **Privacy Policy**
 
 This privacy policy applies to the Construcubes - demo app for Meta Quest devices, together with any related services operated by Maxime SCHADKOWSKI (collectively, the "Application"). Maxime SCHADKOWSKI is hereby referred to as the "Service Provider".
